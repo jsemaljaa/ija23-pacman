@@ -3,8 +3,6 @@
 ----------------------------
 
 ### Authors
-- **Matej Vadovič** - xvadov01 - vedúci tímu
-- **Alina Vinogradova** - xvinog00
 - [Matej Vadovič](https://github.com/Matej-V) - xvadov01 - team leader,
 - [Alina Vinogradova](https://github.com/jsemaljaa) - xvinog00,
 
