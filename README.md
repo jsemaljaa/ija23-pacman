@@ -4,7 +4,7 @@
 
 ### Authors
 - [Matej Vadovič](https://github.com/Matej-V) - xvadov01 - team leader,
-- [Alina Vinogradova](https://github.com/jsemaljaa) - xvinog00,
+- [Alina Vinogradova](https://github.com/jsemaljaa) - xvinog00
 
 ## Technologies used
 
