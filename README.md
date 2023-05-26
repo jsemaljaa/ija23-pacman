@@ -1,7 +1,6 @@
 # Pacmam game in Java
 ## Project from [IJA](https://www.fit.vut.cz/study/course/IJA/.en) university course 2022/23
 ----------------------------
-----------------------------
 
 ### Authors
 - **Matej Vadovič** - xvadov01 - vedúci tímu
